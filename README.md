@@ -4,9 +4,9 @@ A smart and open-source Telegram bot built with Python that answers questions, c
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-AD49E1?style=flat-square&logo=python&logoColor=white" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/Docker-AD49E1?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-AD49E1?style=flat-square&logo=github&logoColor=white" alt="Open Source Badge" />
+  <img src="https://img.shields.io/badge/Python-AD49E1?style=flat-square&logo=python&logoColor=black" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/Docker-AD49E1?style=flat-square&logo=docker&logoColor=black" alt="Docker Badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-AD49E1?style=flat-square&logo=github&logoColor=black" alt="Open Source Badge" />
 </p>
 
 <p align="center">
