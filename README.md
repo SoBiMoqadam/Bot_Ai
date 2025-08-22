@@ -4,14 +4,15 @@ A smart and open-source Telegram bot built with Python that answers questions, c
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Telegram%20Bot-AI-9b30ff?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Badge" />
   <img src="https://img.shields.io/badge/Made%20with-Python-9b30ff?style=flat-square&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/Docker-Supported-9b30ff?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge" />
   <img src="https://img.shields.io/badge/Open%20Source-Yes-9b30ff?style=flat-square&logo=github&logoColor=white" alt="Open Source Badge" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Telegram%20Bot-AI-9b30ff?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Badge" />
+  <a href="https://t.me/Translatedbyvoisebot" target="_blank" style="text-decoration:none; border:none; outline:none;">
+    <img src="https://img.shields.io/badge/@Translatedbyvoisebot-Chat_now-9b30ff?style=flat-square&logo=telegram&logoColor=white" alt="BOT_AI Badge" />
+  </a>
 </p>
 <p align="center"><strong>Username:</strong> <code>@Translatedbyvoisebot</code></p>
 
