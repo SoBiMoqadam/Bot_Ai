@@ -11,12 +11,7 @@ A smart and open-source Telegram bot built with Python that answers questions, c
 </p>
 
 <p align="center">
-  <a href="https://t.me/Translatedbyvoisebot" target="_blank" 
-     style="display:inline-block; padding:12px 24px; font-size:16px; color:white; 
-            background-color:#9b30ff; border-radius:6px; text-decoration:none; 
-            border:none; outline:none;">
-    Start chatting with BOT_AI
-  </a>
+<img src="https://img.shields.io/badge/Telegram%20Bot-AI-9b30ff?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Badge" />
 </p>
 <p align="center"><strong>Username:</strong> <code>@Translatedbyvoisebot</code></p>
 
