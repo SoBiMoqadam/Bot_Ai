@@ -1,5 +1,3 @@
-<!-- BOT_AI – Telegram AI Chatbot (HTML README) -->
-
 <h1 align="center">🤖 BOT_AI – Telegram AI Chatbot</h1>
 <p align="center">
 A smart and open-source Telegram bot built with Python that answers questions, chats naturally, and runs 24/7 on server or Docker.
@@ -13,8 +11,9 @@ A smart and open-source Telegram bot built with Python that answers questions, c
 </p>
 
 <p align="center">
-   <a href="https://t.me/Translatedbyvoisebot" target="_blank">Start chatting with BOT_AI</a>
+  <a href="https://t.me/Translatedbyvoisebot" target="_blank" style="display:inline-block; padding:12px 24px; font-size:16px; color:white; background-color:#0088cc; border-radius:6px; text-decoration:none;">Start chatting with BOT_AI</a>
 </p>
+<p align="center"><strong>Username:</strong> <code>@Translatedbyvoisebot</code></p>
 
 <hr/>
 
@@ -108,12 +107,6 @@ dispatcher.add_handler(CommandHandler("hello", hello))
   <li>“Explain machine learning” → Bot explains the concept</li>
   <li>“Tell me a joke” → Bot replies with a joke</li>
 </ul>
-
-<hr/>
-
-<h2> Live Demo </h2>
-<p>Try BOT_AI on Telegram now:</p>
-<p><a href="https://t.me/Translatedbyvoisebot" target="_blank">Start chatting with BOT_AI</a></p>
 
 <hr/>
 
