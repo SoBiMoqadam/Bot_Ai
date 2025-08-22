@@ -4,14 +4,14 @@ A smart and open-source Telegram bot built with Python that answers questions, c
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Telegram%20Bot-AI-blue?style=flat-square&logo=telegram" alt="Telegram Badge" />
-  <img src="https://img.shields.io/badge/Made%20with-Python-green?style=flat-square&logo=python" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/Docker-Supported-blue?style=flat-square&logo=docker" alt="Docker Badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-orange?style=flat-square&logo=github" alt="Open Source Badge" />
+  <img src="https://img.shields.io/badge/Telegram%20Bot-AI-purple?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Badge" />
+  <img src="https://img.shields.io/badge/Made%20with-Python-purple?style=flat-square&logo=python&logoColor=white" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/Docker-Supported-purple?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-purple?style=flat-square&logo=github&logoColor=white" alt="Open Source Badge" />
 </p>
 
 <p align="center">
-  <a href="https://t.me/Translatedbyvoisebot" target="_blank" style="display:inline-block; padding:12px 24px; font-size:16px; color:white; background-color:#0088cc; border-radius:6px; text-decoration:none;">Start chatting with BOT_AI</a>
+  <a href="https://t.me/Translatedbyvoisebot" target="_blank" style="display:inline-block; padding:12px 24px; font-size:16px; color:white; background-color:#8000ff; border-radius:6px; text-decoration:none;">Start chatting with BOT_AI</a>
 </p>
 <p align="center"><strong>Username:</strong> <code>@Translatedbyvoisebot</code></p>
 
