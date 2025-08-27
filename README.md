@@ -12,10 +12,10 @@ A smart and open-source Telegram bot built with Python that answers questions, c
 
 <p align="center">
   <a href="https://t.me/Translatedbyvoisebot" target="_blank" style="text-decoration:none; border:none; outline:none;">
-    <img src="https://img.shields.io/badge/@Translatedbyvoisebot-Chat_now-FF6500?style=flat-square&logo=telegram&logoColor=white" alt="BOT_AI Badge" />
+    <img src="https://img.shields.io/badge/@Yardanabot-Chat_now-FF6500?style=flat-square&logo=telegram&logoColor=white" alt="BOT_AI Badge" />
   </a>
 </p>
-<p align="center"><strong>Username:</strong> <code>@Translatedbyvoisebot</code></p>
+<p align="center"><strong>Username:</strong> <code>@Yardanabot</code></p>
 
 <hr/>
 
